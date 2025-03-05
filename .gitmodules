@@ -1,3 +1,9 @@
 [submodule "Tutorials_1_to_4"]
 	path = Tutorials_1_to_4
 	url = https://github.com/dlops-io/simple-translate.git
+[submodule "Tutorial_5"]
+	path = Tutorial_5
+	url = https://github.com/dlops-io/mega-pipeline.git
+[submodule "Tutorial_5b"]
+	path = Tutorial_5b
+	url = https://github.com/dlops-io/mega-pipeline.git
