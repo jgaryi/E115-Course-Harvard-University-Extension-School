@@ -7,3 +7,60 @@
 [submodule "Tutorial_5b"]
 	path = Tutorial_5b
 	url = https://github.com/dlops-io/mega-pipeline.git
+[submodule "Tutorial_6"]
+	path = Tutorial_6
+	url = https://github.com/dlops-io/data-labeling.git
+[submodule "Tutorial_7"]
+	path = Tutorial_7
+	url = https://github.com/dlops-io/data-versioning.git
+[submodule "Tutorial_8"]
+	path = Tutorial_8
+	url = https://github.com/dlops-io/llm-rag.git
+[submodule "Tutorial_11"]
+	path = Tutorial_11
+	url = https://github.com/dlops-io/llm-finetuning.git
+[submodule "Tutorial_14"]
+	path = Tutorial_14
+	url = https://github.com/dlops-io/model-training.git
+[submodule "Tutorial_15"]
+	path = Tutorial_15
+	url = https://github.com/dlops-io/serverless-deployment.git
+[submodule "Tutorial_16"]
+	path = Tutorial_16
+	url = https://github.com/dlops-io/model-deployment.git
+[submodule "Tutorial_17"]
+	path = Tutorial_17
+	url = https://github.com/dlops-io/ml-workflow.git
+[submodule "Tutorial_18"]
+	path = Tutorial_18
+	url = https://github.com/dlops-io/llm-vm.git
+[submodule "Tutorial_19"]
+	path = Tutorial_19
+	url = https://github.com/dlops-io/simple_CI.git
+[submodule "Tutorial_20"]
+	path = Tutorial_20
+	url = https://github.com/dlops-io/llm-finetuning_hooksA.git
+[submodule "Tutorial_21"]
+	path = Tutorial_21
+	url = https://github.com/dlops-io/llm-finetuning_hooksB.git
+[submodule "Tutorial_22"]
+	path = Tutorial_22
+	url = https://github.com/dlops-io/cheese-app-v1.git
+[submodule "Tutorial_23"]
+	path = Tutorial_23
+	url = https://github.com/dlops-io/cheese-app-v2.git
+[submodule "Tutorial_24"]
+	path = Tutorial_24
+	url = https://github.com/dlops-io/cheese-app-v2.git
+[submodule "Tutorial_25"]
+	path = Tutorial_25
+	url = https://github.com/dlops-io/cheese-app-v2.git
+[submodule "Tutorial_26"]
+	path = Tutorial_26
+	url = https://github.com/dlops-io/cheese-app-v3.git
+[submodule "Tutorial_27"]
+	path = Tutorial_27
+	url = https://github.com/dlops-io/cheese-app-v3.git
+[submodule "Tutorial_28"]
+	path = Tutorial_28
+	url = https://github.com/dlops-io/cheese-app-v4.git
